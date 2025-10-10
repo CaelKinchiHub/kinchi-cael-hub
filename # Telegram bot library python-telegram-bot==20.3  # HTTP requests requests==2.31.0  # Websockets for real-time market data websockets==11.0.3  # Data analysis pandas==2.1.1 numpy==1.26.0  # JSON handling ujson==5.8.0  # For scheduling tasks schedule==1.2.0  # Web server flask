@@ -1,0 +1,21 @@
+# Telegram bot library
+python-telegram-bot==20.3
+
+# HTTP requests
+requests==2.31.0
+
+# Websockets for real-time market data
+websockets==11.0.3
+
+# Data analysis
+pandas==2.1.1
+numpy==1.26.0
+
+# JSON handling
+ujson==5.8.0
+
+# For scheduling tasks
+schedule==1.2.0
+
+# Web server
+flask
